@@ -1,0 +1,26 @@
+.rokto-logo{
+    width: 8%;
+}
+.logo-heading{
+    font-weight: 400;
+    font-family: 'Reggae One', cursive;
+    color: rgb(158, 0, 0);
+}
+.rokto-body{
+    background-color: red;
+    font-family: 'Lobster', cursive;
+    font-family: 'Reggae One', cursive;
+}
+.donor{
+    background-color: rgba(168, 166, 166, 0.301);
+}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.rokto-footer{
+    background-color: red;
+    font-weight: bold;
+}
